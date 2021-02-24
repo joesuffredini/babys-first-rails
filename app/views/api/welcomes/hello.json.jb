@@ -1,0 +1,5 @@
+# app/views/api/welcomes/hello.json.jb
+{
+  message: "Hello there!",
+  random: @random,
+}

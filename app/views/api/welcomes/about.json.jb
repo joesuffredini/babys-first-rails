@@ -1,0 +1,4 @@
+# app/views/api/welcomes/about.json.jb
+{
+  message: @message,
+}
